@@ -97,7 +97,7 @@ A responsive analytics dashboard designed to present business KPIs, customer inf
 - Designed responsive layouts for desktop, tablet, and mobile devices.
 - Deployed the frontend using Netlify.
 
-🔗 **[View Live Demo](https://pulseboard-dashboard-v01.netlify.app/dashboard)**
+🔗 **[View Live Demo](https://pulseboard-dashboard-v01.netlify.app)**
 
 ---
 
